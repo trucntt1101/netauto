@@ -1,4 +1,4 @@
-ngmt_ip: 10.0.0.11
+ngmt_ip: 10.0.1.111
 valns:
   red:
     id: 10
